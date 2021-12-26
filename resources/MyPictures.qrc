@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>курьер.png</file>
+        <file>заказ.png</file>
+        <file>авторизация.png</file>
+        <file>name.png</file>
+    </qresource>
+</RCC>
